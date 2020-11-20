@@ -1,0 +1,14 @@
+table.quake-log {
+	margin: 0 auto;
+	text-align: left;
+}
+table.quake-log thead{
+	font-weight: bold;
+	text-align: center;
+}
+table.quake-log, table.quake-log td, table.quake-log th{
+	border: none;
+}
+table.quake-log .col-2{
+	text-align: center;
+}

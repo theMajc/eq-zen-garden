@@ -1,0 +1,18 @@
+.profile .section {
+	text-align: center;
+}
+.profile .section .photo {
+	display: inline-block;
+	vertical-align: top;
+	margin: 15px;
+	width: 140px;
+}
+.profile .section .photo img {
+	width: 100%;
+}
+.profile .section .info {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+	width: 320px;
+}

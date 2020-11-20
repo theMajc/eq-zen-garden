@@ -1,0 +1,53 @@
+.nav-header{
+	display: block;
+	background-color: #ededed;
+	height: 180px;
+	text-align: center;
+}
+.nav-header .logo {
+	/* display: inline-block; */
+	height: 100px;
+	float: left;
+	margin: 40px;
+}
+.nav-header .logo img {
+	height: 100%;
+}
+.nav-header .title {
+	display: inline-block;
+	color: #787878;
+}
+.nav-header .title h1 {
+	line-height: 180px;
+	margin: 0px;
+}
+.nav-header .link {
+	float: right;
+	margin: 0 20px;
+}
+.nav-header .link a {
+	line-height: 180px;
+	margin: 0px;
+}
+
+.rotateImg30 {
+	-webkit-transform:rotate(30deg);
+	-moz-transform: rotate(30deg);
+	-ms-transform: rotate(30deg);
+	-o-transform: rotate(30deg);
+	transform: rotate(30deg);
+}
+.rotateImg120 {
+	-webkit-transform:rotate(120deg);
+	-moz-transform: rotate(120deg);
+	-ms-transform: rotate(120deg);
+	-o-transform: rotate(120deg);
+	transform: rotate(120deg);
+}
+.rotateImg240 {
+	-webkit-transform:rotate(240deg);
+	-moz-transform: rotate(240deg);
+	-ms-transform: rotate(240deg);
+	-o-transform: rotate(240deg);
+	transform: rotate(240deg);
+}
