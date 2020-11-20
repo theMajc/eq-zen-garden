@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eq-zen-garden/precache-manifest.d78459aabf53bbdb31fd93a16f18c449.js"
+  "/eq-zen-garden/precache-manifest.03b87b66593f280df86ff92f852017b1.js"
 );
 
 self.addEventListener('message', (event) => {
